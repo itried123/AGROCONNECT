@@ -10,7 +10,7 @@ AgroConnect is a sustainability-focused platform that connects farmers directly 
 
 ## Tech Stack
 - Frontend: React, TailwindCSS, Vite
-- (To be integrated) Backend: Spring Boot, MySQL
+- Backend: Spring Boot, MySQL
 
 ## Deployment Instructions
 1. Install dependencies: `npm install`
